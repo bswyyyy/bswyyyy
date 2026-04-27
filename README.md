@@ -1,15 +1,15 @@
-
 ## Hi there 👋
 
-I'm **bswyyyy**, a senior undergraduate student currently interned at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT-CAS)**.
+I'm **Yi Wang**, a senior undergraduate student currently interned at the **Institute of Computing Technology, Chinese Academy of Sciences (ICT)**.
 
-### 🔍 Research Interests
-My work and interests mainly focus on the efficiency and optimization of Large Language Models (LLMs):
-* **LLM Inference Architecture:** Optimizing system throughput and latency for large-scale model serving.
-* **Post-training:** Techniques including quantization, pruning, and fine-tuning to enhance model performance after initial training.
+### 🔬 Research Interests
+My research focuses on building efficient and scalable systems for Large Language Models, specifically:
+* **Large Model Systems & Inference:** Exploring high-performance architectures for LLM deployment.
+* **Model Optimization:** Improving model efficiency through advanced post-training techniques.
 
 ### 📬 Contact Me
 * **Email:** [wy3454250993@gmail.com](mailto:wy3454250993@gmail.com)
+
 
 ---
 *“Stay hungry, stay foolish.”*
